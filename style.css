@@ -19,14 +19,40 @@ h1 {
     border-radius: 10px 10px 0px 0px;
 }
 
-header {
+#caixaprincipal {
     background-color: #94CEF2;
     text-align: center;
     border-radius: 10px;
     padding: 15px;
     width: 500px;
-    height: 300px;
+    height: 400px;
     margin-left: 750px;
-    margin-top: 200px;
-    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.250);
+    margin-top: 82px;
+    box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.932);
+}
+
+#caixaprincipal > p {
+    color: black;
+    margin-bottom: -84px;
+    margin-top: 30px;
+}
+
+.ellie {
+    height: 230px;
+    margin-top: 115px;
+    margin-left: 0px;
+    border-bottom-left-radius: 10px;
+}
+
+.pikachu {
+    height: 230px;
+    margin-left: -4px;    
+    margin-top: 115px;
+}
+
+.marioeluigi {
+    height: 230px;
+    margin-left: -53px;
+    border-bottom-right-radius: 10px;
+    margin-top: 115px;
 }
