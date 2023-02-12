@@ -5,6 +5,12 @@
     font-weight: normal;
     font-style: normal;
 }
+@font-face {
+    font-family: 'roboto';
+    src: url(fontes/Roboto-Regular.ttf) format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
 
 body {
     background-color: #1d1d1d;   
@@ -26,12 +32,13 @@ h1 {
     padding: 15px;
     width: 500px;
     height: 400px;
-    margin-left: 750px;
-    margin-top: 82px;
+    margin: auto;
+    margin-top: 100px;
     box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.932);
 }
 
 #caixaprincipal > p {
+    font-family: 'Roboto', Times, serif;
     color: black;
     margin-bottom: -84px;
     margin-top: 30px;
