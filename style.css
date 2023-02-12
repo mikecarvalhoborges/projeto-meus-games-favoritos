@@ -6,20 +6,20 @@
     font-style: normal;
 }
 @font-face {
-    font-family: 'roboto';
-    src: url(fontes/Roboto-Regular.ttf) format('truetype');
+    font-family: 'circular';
+    src: url(fontes/CircularStd-Medium.otf) format('opentype');
     font-weight: normal;
     font-style: normal;
 }
 
 body {
-    background-color: #1d1d1d;   
+    background-color: #2b2b2b;   
 }
 
 h1 {
     background-color: #F2E205;
     padding: 5px;
-    margin: -14.6px -14.6px 0 -14.6px;
+    margin: -14.6px -15px 0 -14.6px;
     color: black;
     font-family: 'planet kosmos', Times, serif;
     border-radius: 10px 10px 0px 0px;
@@ -34,32 +34,40 @@ h1 {
     height: 400px;
     margin: auto;
     margin-top: 100px;
-    box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.932);
+    box-shadow: 5px 5px 20px #000000ee;
 }
 
 #caixaprincipal > p {
-    font-family: 'Roboto', Times, serif;
-    color: black;
+    font-family: 'circular', Times, serif;
+    color: #000000;
     margin-bottom: -84px;
     margin-top: 30px;
+    line-height: 18px;
+}
+
+picture {
+    margin: auto;
 }
 
 .ellie {
     height: 230px;
     margin-top: 115px;
-    margin-left: 0px;
+    margin-left: 2px;
     border-bottom-left-radius: 10px;
+    box-shadow: 3px 3px 8px #00000067;
 }
 
 .pikachu {
     height: 230px;
     margin-left: -4px;    
     margin-top: 115px;
+    box-shadow: 3px 3px 8px #00000067;
 }
 
 .marioeluigi {
     height: 230px;
-    margin-left: -53px;
+    margin-left: -4px;
     border-bottom-right-radius: 10px;
     margin-top: 115px;
+    box-shadow: 3px 3px 8px #00000067;
 }
