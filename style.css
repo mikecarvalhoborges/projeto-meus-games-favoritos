@@ -85,7 +85,7 @@ picture {
     box-shadow: 3px 3px 8px #00000067;
 }
 #tlou {
-    background-color: #F2AEDB;
+    background-color: #f2cdae;
     border-radius: 20px;
     padding: 15px;
     width: 500px;
@@ -97,7 +97,7 @@ picture {
 
 #tlou > h1 {
     text-align: center;
-    background-color: #F28705;
+    background-color: #117236a6;
     padding: 5px;
     margin: -14.6px -15px 0 -14.6px;
     color: black;
