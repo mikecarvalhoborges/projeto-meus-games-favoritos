@@ -85,7 +85,7 @@ picture {
     box-shadow: 3px 3px 8px #00000067;
 }
 #tlou {
-    background-color: #f2cdae;
+    background-color: #fffbe2;
     border-radius: 20px;
     padding: 15px;
     width: 500px;
@@ -97,7 +97,7 @@ picture {
 
 #tlou > h1 {
     text-align: center;
-    background-color: #117236a6;
+    background-color: #92731fa6;
     padding: 5px;
     margin: -14.6px -15px 0 -14.6px;
     color: black;
@@ -119,6 +119,49 @@ picture {
 
 #texto-tlou2 {
     text-align: justify;
+}
+
+#imagenstlou {
+    background-color: #fffbe2;
+    border-radius: 20px;
+    padding: 15px;
+    width: 500px;
+    height: 300px;
+    box-shadow: 5px 5px 20px #000000ee;
+    margin-left: 700px;
+    margin-top: -428px;
+    position: relative;
+}
+
+#imagenstlou > picture {
+    margin: auto;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-51%, -46%);
+    
+}
+
+.tlou1 {
+    border-radius: 20px 0px 0px 20px;
+    width: 160px;
+    margin-left: 13px;
+    box-shadow: 3px 3px 8px #00000067;
+}
+
+.tlou2 {
+    width: 160px;
+    margin-left: -4px;
+    box-shadow: 3px 3px 8px #00000067;
+}
+
+.tlou3 {
+    border-radius: 0px 20px 20px 0px;
+    width: 161px;
+    margin-left: 328px;
+    margin-top: -3000px;
+    margin-bottom: 18px;
+    box-shadow: 3px 3px 8px #00000067;
 }
 
 footer {
