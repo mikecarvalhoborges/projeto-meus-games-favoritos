@@ -166,6 +166,7 @@ picture {
     margin: 100px;
     margin-top: 150px;
     box-shadow: 5px 5px 20px #000000ee;
+    float: right;
 }
 
 #soulsilver > h1 {
@@ -186,6 +187,49 @@ picture {
     line-height: 18px;
     text-align: justify;
 }
+
+/*#imagenspkmn {
+    background-color: #fffbe2;
+    border-radius: 20px;
+    padding: 15px;
+    width: 500px;
+    height: 300px;
+    box-shadow: 5px 5px 20px #000000ee;
+    margin-left: 700px;
+    margin-top: -428px;
+    position: relative;
+    justify-content: ;
+}
+
+#imagenspkmn > picture {
+    margin: auto;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-51%, -46%);
+}
+
+.pkmn1 {
+    border-radius: 20px 0px 0px 20px;
+    width: 175px;
+    margin-left: 13px;
+    box-shadow: 3px 3px 8px #00000067;
+}
+
+.pkmn2 {
+    width: 180px;
+    margin-left: -4px;
+    box-shadow: 3px 3px 8px #00000067;
+}
+
+.pkmn3 {
+    border-radius: 0px 20px 20px 0px;
+    width: 285px;
+    margin-left: 368px;
+    margin-top: -164px;
+    margin-bottom: 18px;
+    box-shadow: 3px 3px 8px #00000067;
+}*/
 
 footer {
     text-align: center;
