@@ -84,6 +84,7 @@ picture {
     margin-top: 115px;
     box-shadow: 3px 3px 8px #00000067;
 }
+
 #tlou {
     background-color: #fffbe2;
     border-radius: 20px;
@@ -162,15 +163,17 @@ picture {
     border-radius: 20px;
     padding: 15px;
     width: 537px;
-    height: 211px;
+    height: 163px;
     box-shadow: 5px 5px 20px #000000ee;
-    margin-top: 120px;
-    margin-left: 78px; 
+    margin-top: 160px;
+    margin-left: 60px; 
+    margin-bottom: -400px;
    
 }
 
 #imagenspkmn > picture {
-    margin-left: -163px;
+    margin-left: -163px;  
+    margin-top: 150px;
 }
 
 .pkmn1 {
@@ -201,7 +204,7 @@ picture {
     padding: 15px;
     width: 500px;
     height: 335px;
-    margin-top: -250px;
+    margin-top: 150px;
     margin-left: 700px;
     box-shadow: 5px 5px 20px #000000ee;
 }
@@ -230,4 +233,5 @@ footer {
     color: rgb(255, 250, 226);
     font-family: 'roboto';
     font-size: 13px;
+    padding-top: 20px;
 }
