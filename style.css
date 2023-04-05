@@ -211,11 +211,11 @@ picture {
 
 #soulsilver > h1 {
     text-align: center;
-    background-color: #92731fa6;
+    background-color: #3D61A5;
     padding: 5px;
     margin: -14.6px -15px 0 -14.6px;
-    color: black;
-    font-family: 'Press Gothic Pro', Times, serif;
+    color: #FAC702;
+    font-family: 'circular', Times, serif;
     font-size: 50px;
     border-radius: 20px 20px 0px 0px;
 }
@@ -234,4 +234,26 @@ footer {
     font-family: 'roboto';
     font-size: 13px;
     padding-top: 20px;
+}
+
+#marioandluigi {
+    background-color: #fffbe2;
+    border-radius: 20px;
+    padding: 15px;
+    width: 500px;
+    height: 335px;
+    margin-top: 150px;
+    margin-left: 700px;
+    box-shadow: 5px 5px 20px #000000ee;
+}
+
+#marioandluigi > h1 {
+    text-align: center;
+    background-color: #3D61A5;
+    padding: 5px;
+    margin: -14.6px -15px 0 -14.6px;
+    color: #FAC702;
+    font-family: 'circular', Times, serif;
+    font-size: 50px;
+    border-radius: 20px 20px 0px 0px;
 }
