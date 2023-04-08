@@ -241,7 +241,7 @@ footer {
     border-radius: 20px;
     padding: 15px;
     width: 500px;
-    height: 335px;
+    height: 290px;
     margin: 100px;
     margin-left: 100px;
     box-shadow: 5px 5px 20px #000000ee;
@@ -256,4 +256,12 @@ footer {
     font-family: Helvetica, sans-serif, Times;
     font-size: 50px;
     border-radius: 20px 20px 0px 0px;
+}
+
+#marioandluigi > p {
+    font-family: 'circular', Times, serif;
+    color: #000000;
+    margin-top: 30px;
+    line-height: 18px;
+    text-align: justify;
 }
