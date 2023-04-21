@@ -265,3 +265,28 @@ footer {
     line-height: 18px;
     text-align: justify;
 }
+
+#imagensmario {
+    background-color: #fffbe2;
+    border-radius: 20px;
+    padding: 15px;
+    width: 440px;
+    height: 300px;
+    box-shadow: 5px 5px 20px #000000ee;
+    margin-left: 730px;
+    margin-top: -428px;
+    position: relative;
+}
+
+.mario1 {
+    border-radius: 20px 20px 20px 20px;
+    width: 400px;
+    
+    margin-left: 13px;
+    box-shadow: 3px 3px 8px #00000067;
+    margin: auto;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
