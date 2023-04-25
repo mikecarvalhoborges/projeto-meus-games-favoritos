@@ -1,0 +1,42 @@
+body {
+    background-color: #2b2b2b;   
+}
+
+div {
+    background-color: #94CEF2;
+    text-align: center;
+    border-radius: 20px;
+    padding: 15px;
+    width: 500px;
+    height: 400px;
+    margin: auto;
+    margin-top: 100px;
+    box-shadow: 5px 5px 20px #000000ee;
+}
+
+
+div > h1 {
+    color: white;
+    background-color: #F2E205;
+    padding: 5px;
+    margin: -14.6px -15px 0 -14.6px;
+    color: black;
+    font-family: helvetica, arial;
+    border-radius: 20px 20px 0px 0px;
+}
+
+.linkedin {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(30%, -35%);
+    width: 160px;
+}
+
+.github {
+    width: 180px;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-120%, -35%);
+}
