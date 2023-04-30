@@ -40,3 +40,8 @@ div > h1 {
     top: 50%;
     transform: translate(-120%, -35%);
 }
+
+footer {
+    padding: 50px;
+    text-align: center;
+}
